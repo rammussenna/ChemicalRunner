@@ -1,0 +1,90 @@
+# Chemical Runner – The 4 Saints Faction Design
+
+## Core Concept
+
+* **Number:** 4 dominant factions ("The 4 Saints")
+* **Industry:** Corrosive chemicals and chemical commerce
+* **Goal:** Control the city’s chemical economy
+* **Player Role:** Outsider or rising force who can ally, manipulate, or overthrow factions
+
+**Faction Mechanics:**
+
+1. **Faction Reputation** – numeric value, rises/falls with missions, purchases, sabotage, or killing leaders
+2. **Access Level** – unlocks faction-specific chemicals, mutagens, missions
+3. **Dynamic World Impact** – city reacts to player’s alignment: rival patrols, supply scarcity, and environmental hazards
+
+---
+
+## Individual Factions
+
+### 1️⃣ Saint Ignatius – The Firebrand
+
+* **Theme:** Aggression and domination; fiery chemicals
+* **Personality:** Militaristic, authoritarian, flamboyant
+* **Gameplay Buffs:** Strongest oxidants, fire-based explosions more powerful
+* **Debuffs:** Volatility risk is very high, instability meter increases faster with repeated chemical use
+* **Flavor:** Known for "street purges" to maintain territory
+* **Endgame Impact:** Taking over grants access to unstable high-damage explosives
+
+### 2️⃣ Saint Benedict – The Keeper
+
+* **Theme:** Stability, control, and preservation
+* **Personality:** Methodical, patient, religiously strict
+* **Gameplay Buffs:** Corrosives last longer, precise targeting, chemical stability bonuses
+* **Debuffs:** Attack potency is slightly lower, production of high-risk chemicals is slower
+* **Flavor:** Controls laboratories and research facilities
+* **Endgame Impact:** Taking over unlocks chemical formulas that reduce mutation risk
+
+### 3️⃣ Saint Theresa – The Medic
+
+* **Theme:** Healing and recovery; defensive chemistry
+* **Personality:** Charitable facade, pragmatic underworld tactician
+* **Gameplay Buffs:** Recovery serums and antidotes are stronger, minor regeneration during runs
+* **Debuffs:** Offensive chemicals weaker, volatile reactions less potent
+* **Flavor:** Controls clinics, neutralizing toxic zones, and curative chemical networks
+* **Endgame Impact:** Taking over gives self-sustain mutations and enhanced healing chemicals
+
+### 4️⃣ Saint Dominic – The Courier
+
+* **Theme:** Speed, delivery, and rapid chemical production
+* **Personality:** Fast-talking, opportunistic, street-smart
+* **Gameplay Buffs:** Movement speed increased, chemical pickups more abundant, real-time mixing slightly faster
+* **Debuffs:** Chemicals degrade faster, short-lived effect durations
+* **Flavor:** Controls distribution networks and smuggling routes
+* **Endgame Impact:** Taking over allows faster production chains and rare chemical variants
+
+---
+
+## Faction Relationships
+
+* Each faction has rivalries and alliances. Player actions affect world tension.
+* **Dynamic Example:**
+
+  * Ally with Saint Ignatius → Benedict sees you as threat, patrols increase in their zones
+  * Kill Saint Theresa → Dominic may offer secret deals or betray later depending on player choices
+
+---
+
+## Player-Faction Interaction
+
+1. **Ally** – Access faction-specific bonuses and missions; can buy rare chemicals
+2. **Neutral/Independent** – Avoid factions or do contracts for all; smaller bonuses but freedom
+3. **Sabotage/Takeover** – Destroy faction reputation, eliminate leader, inherit assets; increases difficulty and instability
+
+* Reputation is **numeric + narrative**: e.g., "High Benedict favor, moderate Dominic distrust, Ignatius hates you"
+* Missions unlock based on your standing with each faction
+
+---
+
+## Faction Progression – Endgame Impact
+
+* Faction control changes chemical economy:
+
+  * Availability of rare compounds
+  * Enemy composition and strength
+  * Mutation probabilities and chemical instability rates
+* **Multiple Endings:**
+
+  * Ally with all → stable, high-access endgame
+  * Kill all → chaotic, powerful but high-risk endgame
+  * Mix alliances → narrative branching with faction-specific bosses
